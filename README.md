@@ -46,3 +46,8 @@ The goal: **Deliver business-ready insights** to understand **top-performing pro
 - 📅 Month-over-month trend showed a surge during **festive seasons** and **year-end offers**.
 
 ---
+## 👩‍💻 Author
+
+**Gitanjali Pekamwar**  
+Data Enthusiast
+🔗 [LinkedIn](https://www.linkedin.com/in/gitanjalipekamwar)
