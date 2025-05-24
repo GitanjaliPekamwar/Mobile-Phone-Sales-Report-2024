@@ -3,6 +3,8 @@
 **May 2025 #DataDNA Challenge**  
 In collaboration with **Onyx Data** and **ZoomCharts**
 
+## 📸Report Preview
+![Report Sneak Peek](https://github.com/GitanjaliPekamwar/Mobile-Phone-Sales-Report-2024/blob/main/Screenshot%202025-05-24%20002144.png)
 ## 🏆 Project Overview
 
 This Power BI project was built as part of the **Onyx Data Challenge** (May 2025), focused on analyzing mobile phone sales data from 2024 across **India**, **Bangladesh**, **Pakistan**, and **Turkey**.
@@ -44,15 +46,3 @@ The goal: **Deliver business-ready insights** to understand **top-performing pro
 - 📅 Month-over-month trend showed a surge during **festive seasons** and **year-end offers**.
 
 ---
-
-## 📁 Project Structure
-
-```bash
-├── README.md
-├── Mobile-Sales-PowerBI.pbix       # Power BI report file
-├── CustomTopoJSON_4Countries.json  # Map with India, Bangladesh, Pakistan, Turkey
-├── Sample_Screenshots/
-│   ├── Summary_Page.png
-│   ├── Product_Trends.png
-│   └── Regional_Insights.png
-└── DateTable.pbix                  # Dynamic Date Table DAX
